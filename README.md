@@ -49,6 +49,3 @@ displaying the dateTime format string and rendering the component in ascending o
 
 # License
 MIT © [saish007](https://github.com/saish-shinde-007/react-timeline-vertical-component)
-
-# Keywords
-none
