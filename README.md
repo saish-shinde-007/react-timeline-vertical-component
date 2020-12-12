@@ -1,5 +1,5 @@
 # react-timeline-vertical-component
-![Screenshot](https://github.com/saish-shinde-007/react-modern-search-dropdown/blob/main/react-search-dropdown.png)
+![Screenshot](https://github.com/saish-shinde-007/react-timeline-vertical-component/blob/main/Screen%20Shot%202020-12-11%20at%209.46.24%20PM.png)
 # Install the react-timeline-vertical-component component
 `````
 npm i react-timeline-vertical-component
