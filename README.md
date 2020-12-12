@@ -48,7 +48,7 @@ Note: This is the initial version of the timeline component. I have plans to ext
 displaying the dateTime format string and rendering the component in ascending or descending order of events.
 
 # License
-MIT © [saish007](https://github.com/saish-shinde-007/react-modern-search-dropdown)
+MIT © [saish007](https://github.com/saish-shinde-007/react-timeline-vertical-component)
 
 # Keywords
 none
